@@ -4,8 +4,8 @@ import axios from 'axios';
 
 
 const layout = {
-  labelCol: { span: 6 },
-  wrapperCol: { span: 18 },
+  labelCol: { span: 4 },
+  wrapperCol: { span: 17 },
 };
 
 function App() {
